@@ -1,0 +1,17 @@
+{
+    "name": "laravel-utils/route-controller",
+    "description": "Brings back Route Controller for Laravel 5",
+    "keywords": ["laravel", "route", "controller"],
+    "homepage": "http://github.com/laravel-utils/route-controller",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amer Chaudhary",
+            "email": "amermchaudry@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
